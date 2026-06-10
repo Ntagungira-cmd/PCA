@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fadd820f-9b9a-47d1-baab-82a45b56798c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_PCA_Formative_1_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Template_PCA_Formative_1_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="13" />
+    <option name="cachedIndexableFilesCount" value="15" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -77,6 +78,8 @@
       <updated>1781087810939</updated>
       <workItem from="1781087811948" duration="4163000" />
       <workItem from="1781099054414" duration="2583000" />
+      <workItem from="1781103044728" duration="1319000" />
+      <workItem from="1781109036418" duration="109000" />
     </task>
     <servers />
   </component>
