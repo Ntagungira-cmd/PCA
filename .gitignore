@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.ai
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+.virtual_documents/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Anaconda
+anaconda_projects/
+.conda/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy / type checkers
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Editor / OS
+*.swp
+*~
+Thumbs.db
