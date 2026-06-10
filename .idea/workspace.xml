@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fadd820f-9b9a-47d1-baab-82a45b56798c" name="Changes" comment="Update `.idea/workspace.xml` and execution metadata in `Template_PCA_Formative_1_2.ipynb`">
+    <list default="true" id="fadd820f-9b9a-47d1-baab-82a45b56798c" name="Changes" comment="Enhance PCA workflow: updated `Template_PCA_Formative_1_2.ipynb` with non-numeric encoding, mean imputation for missing values, and expanded metadata in `.idea/workspace.xml`.">
+      <change afterPath="$PROJECT_DIR$/CBSE Group Assignments _ Task Sheet_[Mathematics for machine learning_Cohort 3_2#] - 1.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template_PCA_Formative_1_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Template_PCA_Formative_1_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/ntagungiraalirashid/.cursor/plans",
+    "last_opened_file_path": "/Users/ntagungiraalirashid/PycharmProjects/JupyterProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,7 +80,8 @@
       <workItem from="1781099054414" duration="2583000" />
       <workItem from="1781103044728" duration="1319000" />
       <workItem from="1781109036418" duration="109000" />
-      <workItem from="1781112896165" duration="1708000" />
+      <workItem from="1781112896165" duration="3660000" />
+      <workItem from="1781124246453" duration="395000" />
     </task>
     <task id="LOCAL-00001" summary="Update `.idea/workspace.xml` and execution metadata in `Template_PCA_Formative_1_2.ipynb`">
       <option name="closed" value="true" />
@@ -91,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781113000671</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Enhance PCA workflow: updated `Template_PCA_Formative_1_2.ipynb` with non-numeric encoding, mean imputation for missing values, and expanded metadata in `.idea/workspace.xml`.">
+      <option name="closed" value="true" />
+      <created>1781114989007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781114989007</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update `.idea/workspace.xml` and execution metadata in `Template_PCA_Formative_1_2.ipynb`" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update `.idea/workspace.xml` and execution metadata in `Template_PCA_Formative_1_2.ipynb`" />
+    <MESSAGE value="Enhance PCA workflow: updated `Template_PCA_Formative_1_2.ipynb` with non-numeric encoding, mean imputation for missing values, and expanded metadata in `.idea/workspace.xml`." />
+    <option name="LAST_COMMIT_MESSAGE" value="Enhance PCA workflow: updated `Template_PCA_Formative_1_2.ipynb` with non-numeric encoding, mean imputation for missing values, and expanded metadata in `.idea/workspace.xml`." />
   </component>
 </project>
